@@ -3,6 +3,8 @@ public class Main {
 //        AwtBasics ab = new AwtBasics("The Title");
 //        ab.AwtFrame();
 //        AwtForm af = new AwtForm();
-        RegisterForm rf = new RegisterForm();
+//        RegisterForm rf = new RegisterForm();
+         new UsingBorderLayout("Border Layout Demo");
+
     }
 }
