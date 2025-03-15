@@ -30,7 +30,7 @@ public class UsingBorderLayout {
         jf.add(centerPanel, BorderLayout.CENTER);
         jf.pack();
         jf.setLocationRelativeTo(null);
-        jf.setSize(500, 500);
+//        jf.setSize(500, 500);
         setFontForAllComponents(jf, new Font("Arial", Font.BOLD, 24));
         jf.setVisible(true);
     }
